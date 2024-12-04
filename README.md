@@ -1,20 +1,44 @@
-Overview
-The Weather Dashboard is a web application that provides real-time weather data for cities around the world. It uses the OpenWeatherMap API to fetch current weather conditions, including temperature, humidity, and a weather description with a relevant icon. The application is designed with a modern, elegant blue gradient theme and bold fonts for an immersive user experience.
+# **Weather Dashboard**  
 
-Objective
-The objective of this project is to create a visually appealing and functional weather dashboard to showcase skills in:
+## **Overview**  
+The Weather Dashboard is a web application designed to provide real-time weather updates for cities worldwide. It fetches data from the OpenWeatherMap API, displaying current weather conditions, including temperature, humidity, and weather descriptions, with an intuitive and visually appealing interface.  
 
-HTML5 for structuring the web page.
-CSS3 for styling with responsive, modern design techniques.
-JavaScript (ES6) for making dynamic API calls and updating the interface.
-Key Features
-City Search: Users can search for weather information by entering the name of a city.
-Weather Details: Displays the city name, temperature, humidity, and a description of the weather.
-Dynamic Weather Icon: Weather-specific icons update based on current conditions.
-Responsive Design: Looks great on devices of all sizes.
-Blue Gradient Theme: A visually appealing design with large fonts for clarity.
-Technologies Used
-HTML5: For creating the web page structure.
-CSS3: For designing a bold, gradient-based layout.
-JavaScript (ES6): For dynamic content and API integration.
-OpenWeatherMap API: To fetch real-time weather data.
+This project highlights skills in **HTML**, **CSS**, and **JavaScript**, focusing on dynamic API integration and responsive web design.  
+
+---
+
+## **Project Details**  
+- **Name:** B. Madhuri  
+- **Company:** CodTech IT Company  
+- **Employee ID:** CT12DS2548  
+- **Domain:** Frontend Development  
+- **Duration:** October 5th, 2024 to December 5th, 2024  
+
+---
+
+## **Objective**  
+To create a user-friendly weather application that:  
+1. Allows users to search for weather conditions in any city.  
+2. Dynamically updates the interface with real-time weather data using an API.  
+3. Provides a modern, responsive design that adapts to all devices.  
+
+---
+
+## **Key Features**  
+- **City Search**: Users can search for weather data by entering a city name.  
+- **Weather Information**: Displays city name, temperature, humidity, and weather description with an icon.  
+- **Dynamic UI**: Automatically updates the interface with fetched data.  
+- **Responsive Design**: Ensures usability across desktops, tablets, and smartphones.  
+- **Modern Aesthetic**: Styled with a dark blue gradient theme and large, elegant fonts.  
+
+---
+
+## **Technologies Used**  
+- **HTML5**: For the structural design of the web page.  
+- **CSS3**: For modern styling with responsive layout using Flexbox and gradients.  
+- **JavaScript (ES6)**: For API interaction and dynamic DOM manipulation.  
+- **OpenWeatherMap API**: For fetching real-time weather data.  
+
+---
+
+## **Project Structure**  
