@@ -40,5 +40,5 @@ To create a user-friendly weather application that:
 - **OpenWeatherMap API**: For fetching real-time weather data.  
 
 ---
+![Screenshot 2024-12-04 222729](https://github.com/user-attachments/assets/37ae6902-3ef3-458c-a0bf-1f998458820b)
 
-## **Project Structure**  
