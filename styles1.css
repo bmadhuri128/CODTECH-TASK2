@@ -1,0 +1,84 @@
+/* styles.css */
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  background: linear-gradient(135deg, #004e92, #000428);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.weather-app {
+  text-align: center;
+  padding: 30px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  width: 90%;
+  max-width: 500px;
+}
+
+header h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.search-container input {
+  width: 60%;
+  padding: 15px;
+  font-size: 1.5rem;
+  border-radius: 10px 0 0 10px;
+  border: none;
+  outline: none;
+}
+
+.search-container button {
+  padding: 15px 20px;
+  font-size: 1.5rem;
+  background: #0078ff;
+  border: none;
+  color: #fff;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background: #005bbb;
+}
+
+.weather-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.weather-details h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.weather-details p {
+  font-size: 1.8rem;
+  margin: 10px 0;
+}
+
+.icon-container img {
+  width: 120px;
+  height: 120px;
+  margin-top: 20px;
+}
+.img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
